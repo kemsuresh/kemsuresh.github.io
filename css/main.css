@@ -5,7 +5,7 @@ html {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: radial-gradient(at 30% -5%, #92f2f2, #d6cff1, rgba(255, 255, 255, 0) 25%), radial-gradient(at 50% 70%, #c4f2e5, rgba(255, 255, 255, 0) 30%), radial-gradient(at 70% 0%, #d6cff1, rgba(255, 255, 255, 0) 20%), linear-gradient(75deg, #92f2f2 5%, rgba(255, 255, 255, 0), #a8d0f0, rgba(255, 255, 255, 0), #eed5f2, rgba(255, 255, 255, 0), #d6cff1, rgba(255, 255, 255, 0), #c4f2e5 90%), radial-gradient(at 30% 50%, #92f2f2, rgba(255, 255, 255, 0) 30%), radial-gradient(at 30% 50%, #9cb9fc, rgba(255, 255, 255, 0) 30%), radial-gradient(at 100% 50%, #92f2f2, #c2dcf2, rgba(255, 255, 255, 0) 50%), linear-gradient(115deg, #92f2f2 5%, #a8d0f0 10%, #d6cff1, #eed5f2 20%, #a8d0f0, #a8d0f0 30%, #d6cff1, #c2dcf2 40%, #92f2f2, #a8d0f0 70%);
+    background: radial-gradient(at 30% -5%, #d5e0ff, #d6cff1, rgba(255, 255, 255, 0) 25%), radial-gradient(at 50% 70%, #d5e0ff, rgba(255, 255, 255, 0) 30%), radial-gradient(at 70% 0%, #d6cff1, rgba(255, 255, 255, 0) 20%), linear-gradient(75deg, #d5e0ff 5%, rgba(255, 255, 255, 0), #d5e0ff, rgba(255, 255, 255, 0), #eed5f2, rgba(255, 255, 255, 0), #d6cff1, rgba(255, 255, 255, 0), #d5e0ff 90%), radial-gradient(at 30% 50%, #d5e0ff, rgba(255, 255, 255, 0) 30%), radial-gradient(at 30% 50%, #9cb9fc, rgba(255, 255, 255, 0) 30%), radial-gradient(at 100% 50%, #d5e0ff, #c2dcf2, rgba(255, 255, 255, 0) 50%), linear-gradient(115deg, #d5e0ff 5%, #d5e0ff 10%, #d6cff1, #eed5f2 20%, #d5e0ff, #d5e0ff 30%, #d6cff1, #c2dcf2 40%, #d5e0ff, #d5e0ff 70%);
 }
 
 .cinzel-name {
@@ -27,7 +27,8 @@ html {
 .me-group {
     position: relative;
     top: 30%;
-    padding-left: 60px;
+    left: 30%;
+    zoom: 1.1;
 }
 
 #iam {
