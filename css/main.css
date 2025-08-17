@@ -1,0 +1,48 @@
+html {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(at 30% -5%, #92f2f2, #d6cff1, rgba(255, 255, 255, 0) 25%), radial-gradient(at 50% 70%, #c4f2e5, rgba(255, 255, 255, 0) 30%), radial-gradient(at 70% 0%, #d6cff1, rgba(255, 255, 255, 0) 20%), linear-gradient(75deg, #92f2f2 5%, rgba(255, 255, 255, 0), #a8d0f0, rgba(255, 255, 255, 0), #eed5f2, rgba(255, 255, 255, 0), #d6cff1, rgba(255, 255, 255, 0), #c4f2e5 90%), radial-gradient(at 30% 50%, #92f2f2, rgba(255, 255, 255, 0) 30%), radial-gradient(at 30% 50%, #9cb9fc, rgba(255, 255, 255, 0) 30%), radial-gradient(at 100% 50%, #92f2f2, #c2dcf2, rgba(255, 255, 255, 0) 50%), linear-gradient(115deg, #92f2f2 5%, #a8d0f0 10%, #d6cff1, #eed5f2 20%, #a8d0f0, #a8d0f0 30%, #d6cff1, #c2dcf2 40%, #92f2f2, #a8d0f0 70%);
+}
+
+.cinzel-name {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cinzel-name > #first {
+    color: #004aad;
+}
+
+.me {
+    height: 100%;
+    font-size: 40px;
+}
+
+.me-group {
+    position: relative;
+    top: 30%;
+    padding-left: 60px;
+}
+
+#iam {
+    font-family: "Bellota", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: #545454;
+    font-size: 24px;
+}
+
+#my-role {
+    font-family: "Bellota", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: #545454;
+    text-transform: uppercase;
+    font-size: 24px;
+}
