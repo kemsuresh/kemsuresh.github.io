@@ -21,7 +21,7 @@ html {
 
 .me {
     height: 100%;
-    font-size: 40px;
+    font-size: min(40px, 8vw);
 }
 
 .me-group {
@@ -38,7 +38,7 @@ html {
     font-weight: 300;
     font-style: normal;
     color: #545454;
-    font-size: 24px;
+    font-size: min(24px, 5vw);
 }
 
 #my-role {
@@ -47,5 +47,5 @@ html {
     font-style: normal;
     color: #545454;
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: min(24px, 5vw);
 }
